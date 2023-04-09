@@ -1,2 +1,7 @@
 # mpgitshop
-learning
+learning  github  
+title
+program
+function
+howtouse
+howtocontribute
